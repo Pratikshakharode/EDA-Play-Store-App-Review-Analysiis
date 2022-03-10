@@ -1,0 +1,2 @@
+# EDA-Play-Store-App-Review-Analysiis
+Analysing and Organising Data, Data Cleaning, Business Analysis and Visualization, and Reviews Analysis. First, we collect the data from the Kaggle website. In the next step, we try to do data cleaning on the data set to reduce the error percentage. After the data set is ready, we try to analyze the data set using different plots and remove the stuff not needed from the data set.
